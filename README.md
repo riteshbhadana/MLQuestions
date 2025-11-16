@@ -426,7 +426,9 @@ LSTMs (Long Short Term Memory) models consist of RNN cells designed to store and
 ### 66) What are RCNNs? [[src]](https://towardsdatascience.com/learn-rcnns-with-this-toy-dataset-be19dce380ec)
 Recurrent Convolutional model is a model that is specially designed to make predictions using a sequence of images (more commonly also know as video). These models are used in object detection tasks in computer vision. The RCNN approach combines both region proposal techniques and convolutional neural networks (CNNs) to identify and locate objects within an image.
 
-
+Learn PyTorch for Deep Learning: Zero to Mastery book
+https://www.learnpytorch.io/ 
+video :- https://www.youtube.com/watch?v=Z_ikDlimN6A 
 ## Contributions
 Contributions are most welcomed.
  1. Fork the repository.
